@@ -1,0 +1,81 @@
+.App {
+    text-align: center;
+}
+.foot{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-size:20px;
+    font-weight:bold;
+}
+.app-logo {
+    height:100px;
+    width:300px;
+
+}
+.login-icon{
+    width: 50px;
+    height: 50px;
+}
+
+table,th,tr,td{
+    border: 1px solid black;
+    text-align:center;
+    font-size: 18px;
+
+}
+
+.table1{
+    padding-left:28%;
+}
+
+.add-button{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+
+
+}
+
+.save-button{
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+
+
+.profile{
+    background-color:cornflowerblue;
+    font-size: 25px;
+    font-weight: bold ;
+    color:black;
+}
+
+.tech{
+    width:100%;
+
+}
+.techi{
+    font-family: SansSerif;
+    font-size:100px;
+    line-height: 200%;
+    font-weight: bold;
+}
+
+
+
+
+

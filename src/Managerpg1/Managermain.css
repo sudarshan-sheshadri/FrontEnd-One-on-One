@@ -1,0 +1,112 @@
+.manbg{
+    height: 100%;
+    background-repeat: no-repeat;
+
+    background-color: lightsteelblue;
+
+}
+
+.ui {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+.dropdown {
+    margin: auto;
+    width: 40%;
+    padding: 10px;
+}
+
+.calender {
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+}
+
+
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+table#t01 {
+    width: 100%;
+    background-color: #f1f1c1;
+}
+
+
+
+.bgcolor{
+    background-color:cornflowerblue;
+
+
+}
+
+.background{
+    background-color: lightskyblue;
+}
+
+
+.navbahr{
+    background-color: dodgerblue;
+
+}
+
+
+.resize{
+    max-width:100%;
+    height:auto;
+
+
+}
+
+{/*
+.button {
+    backface-visibility: hidden;
+    position: relative;
+    width: 44px;
+    height: 44px;
+    cursor: pointer;
+    display: inline-block;
+    white-space: nowrap;
+    background: #ff3700;
+    border-radius: 100px;
+    border: 0px solid #444;
+    border-width: 0px 0px 0px 0px;
+    padding: 10px 13px 10px 13px;
+    color: #000;
+    font-size: 16px;
+    font-family: Helvetica Neue;
+    font-weight: 900;
+    font-style: normal
+}
+.button > div {
+    color: #999;
+    font-size: 10px;
+    font-family: Helvetica Neue;
+    font-weight: initial;
+    font-style: normal;
+    text-align: center;
+    margin: 0px 0px 0px 0px
+}
+.button > i {
+    color: #fff;
+    font-size: 1em;
+    border-radius: 0px;
+    border: 0px solid transparent;
+    border-width: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    position: static
+}
+.button > .ld {
+    font-size: initial
+}
+*/}
+.buttoon{
+    background-image: url("./remov_bttn.png");
+}

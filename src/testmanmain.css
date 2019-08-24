@@ -1,0 +1,51 @@
+#app {
+    font-family: 'Open Sans', sans-serif;
+
+
+}
+
+.table {
+    margin: 1em;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid;
+    font-color: black;
+}
+
+.header, .row {
+    display: flex;
+
+
+
+}
+
+div {
+    flex: 1;
+    padding: 0.2rem 0.4em;
+
+
+
+}
+
+.remove {
+    border: 0;
+    text-align: right;
+    flex: 0 0 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    border: 1px solid;
+}
+
+
+.header {
+    background-color:lightcyan;
+
+}
+div {
+    cursor: pointer;
+
+
+}
