@@ -15,7 +15,7 @@ For building and running the application you need:
 
 **Installation**
 
-- --[Link to install  WebStorm](https://www.jetbrains.com/webstorm/download/#section=linux)
+- [Link to install  WebStorm](https://www.jetbrains.com/webstorm/download/#section=linux)
 
 **Running the application locally**
 
