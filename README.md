@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 For building and running the application you need:
 
-- [WebStorm](https://www.jetbrains.com/webstorm/)- **WebStorm** is a powerful and intelligent IDE that gives you the best coding assistance for JavaScript, HTML and CSS and a wide range of modern web technologies
+- [WebStorm](https://www.jetbrains.com/webstorm/) **WebStorm** is a powerful and intelligent IDE that gives you the best coding assistance for JavaScript, HTML and CSS and a wide range of modern web technologies
 
 **Installation**
 
