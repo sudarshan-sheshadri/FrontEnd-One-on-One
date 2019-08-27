@@ -12,7 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 For building and running the application you need:
 
 - [WebStorm](https://www.jetbrains.com/webstorm/) - **WebStorm** is a powerful and intelligent IDE that gives you the best coding assistance for JavaScript, HTML and CSS and a wide range of modern web technologies.
-- [NPM](https://www.npmjs.com/package/download)
+- [NPM](https://www.npmjs.com/package/download) - **NPM** is a package manager for Node.js packages
 
 **Installation**
 
@@ -21,4 +21,4 @@ For building and running the application you need:
 
 **Running the application locally**
 
-Run the app by executing command &quot;npm start&quot; in command prompt. You need to look for the port number in the command prompt to know on which port the output has been served.
+Run the app by executing command **&quot;npm start&quot;** in command prompt. You need to look for the port number in the command prompt to know on which port the output has been served.
