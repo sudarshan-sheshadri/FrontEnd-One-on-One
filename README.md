@@ -11,8 +11,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 For building and running the application you need:
 
-- [WebStorm](https://www.jetbrains.com/webstorm/) - **WebStorm** is a powerful and intelligent IDE that gives you the best coding assistance for JavaScript, HTML and CSS and a wide range of modern web technologies.
-- [NPM](https://www.npmjs.com/package/download) - **NPM** is a package manager for Node.js packages
+- [WebStorm](https://www.jetbrains.com/webstorm/) - **WebStorm** is a powerful and intelligent IDE that gives you the best coding assistance for JavaScript, HTML and CSS and a wide range of modern web technologies. This is a paid version.
+- [NPM](https://www.npmjs.com/package/download) - **NPM** is a package manager for Node.js packages.
+-[Visual Studio Code](https://code.visualstudio.com/download) - **Visual Studio Code** is a source-code editor developed by Microsoft for Windows, Linux and macOS. It includes support for debugging, embedded Git control and GitHub, syntax highlighting, intelligent code completion, snippets, and code refactoring.
 
 **Installation**
 
